@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[187],{606:(n,e,s)=>{s.r(e),s.d(e,{default:()=>c});var t=s(893);const o="components-NotFound-not-found__not_found",c=n=>{let{children:e}=n;return(0,t.jsx)("div",Object.assign({className:o},{children:e}))}}}]);
