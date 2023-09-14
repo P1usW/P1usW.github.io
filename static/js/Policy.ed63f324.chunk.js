@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuysaleacademy=self.webpackChunkbuysaleacademy||[]).push([[616],{8712:(e,s,a)=>{a.r(s),a.d(s,{default:()=>d});var h=a(5893),c=a(403);const d=()=>(0,h.jsxs)("div",{children:[(0,h.jsx)("h1",{children:"ПОЛИТИКА В ОТНОШЕНИИ ОБРАБОТКИ ПЕРСОНАЛЬНЫХ ДАННЫХ - BUYSALE"}),(0,h.jsx)("iframe",{style:{width:"100%",height:"100vh"},src:c})]})}}]);

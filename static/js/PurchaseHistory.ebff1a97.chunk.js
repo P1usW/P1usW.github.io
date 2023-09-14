@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuysaleacademy=self.webpackChunkbuysaleacademy||[]).push([[28],{6685:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});var u=s(5893);const c=()=>(0,u.jsx)("div",{children:(0,u.jsx)("ul",{})})}}]);

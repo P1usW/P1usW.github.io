@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/MyPurchases.9fe363bd.chunk.css","mappings":"AAAA,mEAEE,yDADA,qDACA,gDACA","sources":["webpack://buysaleacademy/./src/pages/ProfilePage/components/MyPurchases/my-purchase.module.scss"],"sourcesContent":[".my_purchase {\r\n  display: flex;\r\n  flex-direction: column;\r\n  gap: 28px;\r\n}"],"names":[],"sourceRoot":""}

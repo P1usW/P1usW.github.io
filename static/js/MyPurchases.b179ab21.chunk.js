@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuysaleacademy=self.webpackChunkbuysaleacademy||[]).push([[64],{3806:(e,s,a)=>{a.r(s),a.d(s,{default:()=>l});var c=a(5893);const u="pages-ProfilePage-components-MyPurchases-my-purchase__my_purchase",l=()=>(0,c.jsx)("div",Object.assign({className:u},{children:(0,c.jsx)("ul",{})}))}}]);
